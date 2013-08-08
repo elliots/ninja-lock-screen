@@ -21,7 +21,7 @@ function Device(app) {
   this.writeable = true;
   this.readable = false;
   this.V = 0;
-  this.D = 200; // display_text, should be speech
+  this.D = 320;
   this.G = 'LockScreen';
   this.name = 'Lock Screen - ' + require('os').hostname();
 }
