@@ -1,7 +1,7 @@
 {
   "name": "ninja-lock-screen",
   "version": "1.0.0",
-  "description": "A ninjablock driver to lock your mac screen",
+  "description": "NinjaBlocks Lock Screen driver (Mac)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
